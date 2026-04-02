@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Shreya Singh
 
-<!--
-**Shreyasingh-15d/Shreyasingh-15d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Interested in AI/ML & Web Development  
+🌱 Currently learning: DSA, Python  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C / C++
+- Python
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- DevTrack – Student Productivity Dashboard
+- CG Project
+- More coming soon...
+
+## 📫 Contact
+- Email: shreyasingh36364@gmail.com
